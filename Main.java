@@ -18,8 +18,8 @@ public class Main implements Directions {
      */
     public static void runJerooCode() {
        // Write code here to make a letter here
-       Jeroo kim = new Jeroo(5, 0, EAST, 0);
-        kim.climbStairs();
+       Jeroo j = new Jeroo(5, 0, EAST, 0);
+        j.climbStairs();
 
     }
 
